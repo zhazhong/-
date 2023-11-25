@@ -1,2 +1,3 @@
-# -
-This is a topic of a python course.
+# 
+This is a program of a python course.
+We want to do a food website containing interactive game over Tainan. Good luck for us. 
